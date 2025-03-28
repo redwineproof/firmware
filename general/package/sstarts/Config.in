@@ -1,0 +1,4 @@
+config BR2_PACKAGE_SSTARTS
+	bool "Build BR2_PACKAGE_SSTARTS kernel module"
+	help
+		This is a kernel module for sstarts.
